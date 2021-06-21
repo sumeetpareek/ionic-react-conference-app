@@ -33,6 +33,7 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Support from './pages/Support';
 import Tutorial from './pages/Tutorial';
+import Home from "./pages/Home";
 import HomeOrTutorial from './components/HomeOrTutorial';
 import { Schedule } from "./models/Schedule";
 import RedirectToLogin from './components/RedirectToLogin';
@@ -86,6 +87,7 @@ const IonicApp: React.FC<IonicAppProps> = ({ darkMode, schedule, setIsLoggedIn, 
                 <Route path="/signup" component={Signup} />
                 <Route path="/support" component={Support} />
                 <Route path="/tutorial" component={Tutorial} />
+                <Route path="/home" component={Home} />
                 <Route path="/logout" render={() => {
                   return <RedirectToLogin
                     setIsLoggedIn={setIsLoggedIn}
