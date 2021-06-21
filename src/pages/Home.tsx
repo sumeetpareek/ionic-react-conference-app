@@ -41,7 +41,7 @@ const Home: React.FC<RouteComponentProps> = (props) => {
                 </IonList>
 
                 <IonFab vertical="bottom" horizontal="end" slot="fixed">
-                    <IonFabButton onClick={() => props.history.push('/tutorial')}>
+                    <IonFabButton onClick={() => props.history.push('/new')}>
                         <IonIcon icon={add} />
                     </IonFabButton>
                 </IonFab>
