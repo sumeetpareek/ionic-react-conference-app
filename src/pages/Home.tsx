@@ -1,7 +1,11 @@
 import React from 'react';
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonList, IonItem, IonCheckbox, IonLabel, IonNote, IonBadge } from '@ionic/react';
+import { IonFab, IonFabButton, IonIcon } from '@ionic/react';
+import { add } from 'ionicons/icons';
+import { RouteComponentProps } from 'react-router';
 
-const Home: React.FC = () => {
+
+const Home: React.FC<RouteComponentProps> = (props) => {
     return (
         <IonPage>
             <IonHeader>
@@ -35,9 +39,15 @@ const Home: React.FC = () => {
                         </IonBadge>
                     </IonItem>
                 </IonList>
+
+                <IonFab vertical="bottom" horizontal="end" slot="fixed">
+                    <IonFabButton onClick={() => props.history.push('/tutorial')}>
+                        <IonIcon icon={add} />
+                    </IonFabButton>
+                </IonFab>
             </IonContent>
         </IonPage>
     );
 };
 
-export default React.memo(Home);
+export default Home;
