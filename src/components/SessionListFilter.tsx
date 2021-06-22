@@ -48,6 +48,7 @@ const SessionListFilter: React.FC<SessionListFilterProps> = ({ allTracks, filter
     'Documentation': document,
     'Food': restaurant,
     'Ionic': logoIonic,
+    'Tiger21': logoIonic,
     'Tooling': hammer,
     'Design': colorPalette,
     'Services': cog,
