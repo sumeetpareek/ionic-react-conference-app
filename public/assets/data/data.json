@@ -20,19 +20,19 @@
           "time": "9:15 am",
           "sessions": [
             {
-              "name": "Getting Started with Ionic",
+              "name": "Getting Started with Tiger21",
               "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Ted Turtle"],
               "timeStart": "9:30 am",
               "timeEnd": "9:45 am",
-              "tracks": ["Ionic"],
+              "tracks": ["Tiger21"],
               "id": "2"
             },
             {
-              "name": "Ionic Tooling",
+              "name": "Tiger21 Tooling",
               "location": "Executive Ballroom",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Rachel Rabbit"],
               "timeStart": "9:45 am",
               "timeEnd": "10:00 am",
@@ -40,13 +40,13 @@
               "id": "3"
             },
             {
-              "name": "University of Ionic",
+              "name": "University of Tiger21",
               "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Ellie Elephant"],
               "timeStart": "9:15 am",
               "timeEnd": "9:30 am",
-              "tracks": ["Ionic"],
+              "tracks": ["Tiger21"],
               "id": "4"
             }
           ]
@@ -55,19 +55,19 @@
           "time": "10:00 am",
           "sessions": [
             {
-              "name": "Migrating to Ionic",
+              "name": "Migrating to Tiger21",
               "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Eva Eagle", "Lionel Lion"],
               "timeStart": "10:00 am",
               "timeEnd": "10:15 am",
-              "tracks": ["Ionic"],
+              "tracks": ["Tiger21"],
               "id": "5"
             },
             {
               "name": "What's New in Angular",
               "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Rachel Rabbit"],
               "timeStart": "10:15 am",
               "timeEnd": "10:30 am",
@@ -75,9 +75,9 @@
               "id": "6"
             },
             {
-              "name": "The Evolution of Ionicons",
+              "name": "The Evolution of Tiger21ons",
               "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Isabella Iguana", "Eva Eagle"],
               "timeStart": "10:15 am",
               "timeEnd": "10:30 am",
@@ -85,10 +85,10 @@
               "id": "7"
             },
             {
-              "name": "Ionic Pro",
+              "name": "Tiger21 Pro",
               "location": "Grand Ballroom A",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Charlie Cheetah"],
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["James Salmon"],
               "timeStart": "10:45 am",
               "timeEnd": "11:00 am",
               "tracks": ["Services"],
@@ -100,9 +100,9 @@
           "time": "11:00 am",
           "sessions": [
             {
-              "name": "Ionic Workshop",
+              "name": "Tiger21 Workshop",
               "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Karl Kitten", "Lionel Lion"],
               "timeStart": "11:00 am",
               "timeEnd": "11:45 am",
@@ -112,7 +112,7 @@
             {
               "name": "Community Interaction",
               "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Lionel Lion", "Gino Giraffe"],
               "timeStart": "11:30 am",
               "timeEnd": "11:50 am",
@@ -120,9 +120,9 @@
               "id": "10"
             },
             {
-              "name": "Navigation in Ionic",
+              "name": "Navigation in Tiger21",
               "location": "Grand Ballroom A",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
               "timeStart": "11:30 am",
               "timeEnd": "12:00 pm",
@@ -137,7 +137,7 @@
             {
               "name": "Lunch",
               "location": "Dining Hall",
-              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
+              "description": "Come grab lunch with all the Tiger21 fanatics and talk all things Tiger21",
               "timeStart": "12:00 pm",
               "timeEnd": "1:00 pm",
               "tracks": ["Food"],
@@ -149,9 +149,9 @@
           "time": "1:00 pm",
           "sessions": [
             {
-              "name": "Ionic in the Enterprise",
+              "name": "Tiger21 in the Enterprise",
               "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Paul Puppy"],
               "timeStart": "1:00 pm",
               "timeEnd": "1:15 pm",
@@ -159,9 +159,9 @@
               "id": "13"
             },
             {
-              "name": "Ionic Worldwide",
+              "name": "Tiger21 Worldwide",
               "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Gino Giraffe"],
               "timeStart": "1:15 pm",
               "timeEnd": "1:30 pm",
@@ -169,10 +169,10 @@
               "id": "14"
             },
             {
-              "name": "The Ionic Package",
+              "name": "The Tiger21 Package",
               "location": "Grand Ballroom B",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Molly Mouse", "Burt Bear"],
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Molly Mouse", "Timothy Daniels"],
               "timeStart": "1:30 pm",
               "timeEnd": "2:00 pm",
               "tracks": ["Services"],
@@ -184,19 +184,19 @@
           "time": "2:00 pm",
           "sessions": [
             {
-              "name": "Push Notifications in Ionic",
+              "name": "Push Notifications in Tiger21",
               "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Timothy Daniels", "James Salmon"],
               "timeStart": "2:00 pm",
               "timeEnd": "2:30 pm",
               "tracks": ["Services"],
               "id": "16"
             },
             {
-              "name": "Ionic Documentation",
+              "name": "Tiger21 Documentation",
               "location": "Grand Ballroom B",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Donald Duck"],
               "timeStart": "2:30 pm",
               "timeEnd": "2:45 pm",
@@ -204,9 +204,9 @@
               "id": "17"
             },
             {
-              "name": "UX in Ionic",
+              "name": "UX in Tiger21",
               "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
               "timeStart": "2:45 pm",
               "timeEnd": "3:00 pm",
@@ -219,9 +219,9 @@
           "time": "3:00",
           "sessions": [
             {
-              "name": "Angular Directives in Ionic",
+              "name": "Angular Directives in Tiger21",
               "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Ted Turtle"],
               "timeStart": "3:00 pm",
               "timeEnd": "3:30 pm",
@@ -231,7 +231,7 @@
             {
               "name": "Mobile States",
               "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Tiger21, the design decisions made as we integrated Tiger21 with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Tiger21 features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
               "speakerNames": ["Rachel Rabbit"],
               "timeStart": "3:30 pm",
               "timeEnd": "3:45 pm",
@@ -411,7 +411,7 @@
       "center": true
     },
     {
-      "name": "Ionic HQ",
+      "name": "Tiger21 HQ",
       "lat": 43.074395,
       "lng": -89.381056
     },
@@ -436,7 +436,7 @@
       "icon": "restaurant"
     },
     {
-      "name": "Ionic",
+      "name": "Tiger21",
       "icon": "logo-ionic"
     },
     {
