@@ -23,8 +23,7 @@ export const getConfData = async () => {
   const locations = await response[1].json() as Location[];
   const allTracks = sessions
     .reduce((all, session) => all.concat(session.tracks), [] as string[])
-    .filter((trackName, index, array) => array.indexOf(trackName) === index)
-    .sort();
+    .filter((trackName, index, array) => array.indexOf(trackName) === index);
 
   const data = {
     schedule,
